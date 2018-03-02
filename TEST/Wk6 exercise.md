@@ -3,7 +3,7 @@
 ## Ian Bishop
 ## March 2, 2018
 
-This markdown file documents my executing the following command from Ref.Ex step 33:
+This markdown file documents the execution of the following command from Ref.Ex step 33:
 
 `(Rad_Ref) [ibishop@KITT Rad_Ref2]$ bash ReferenceOpt.sh 4 8 4 8 PE 16 &`
 
